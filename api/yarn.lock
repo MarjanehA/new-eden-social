@@ -262,6 +262,15 @@
     json-socket "0.3.0"
     optional "0.1.4"
 
+"@nestjs/microservices@^6.3.2":
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/microservices/-/microservices-6.3.2.tgz#ad0a5aa05b0208d75f1f8301e13e20653627e3ce"
+  integrity sha512-daEzZ4L+BpMmu9KDFUgdU7+HgeVug//qrHlVTrdqCjyNd4vgZFgXrHGNOOFWYdZCwyY2I9qrL+XEv3pz3VeXyA==
+  dependencies:
+    iterare "1.2.0"
+    json-socket "0.3.0"
+    optional "0.1.4"
+
 "@nestjs/mongoose@^6.1.2":
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/@nestjs/mongoose/-/mongoose-6.1.2.tgz#fe1c227f5c1fd0f5c9be5c4e37b2897f744bc0b0"
@@ -4278,6 +4287,11 @@ iterare@1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/iterare/-/iterare-1.1.2.tgz#32e65fe03c72f727b1ae5fd002ed6a215f523ae8"
   integrity sha512-25rVYmj/dDvTR6zOa9jY1Ihd6USLa0J508Ub2iy7Aga+xu9JMbjDds2Uh03ReDGbva/YN3s3Ybi+Do0nOX6wAg==
+
+iterare@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/iterare/-/iterare-1.2.0.tgz#7427f5ed45986e4b73e2fea903579f1117f3dd15"
+  integrity sha512-RxMV9p/UzdK0Iplnd8mVgRvNdXlsTOiuDrqMRnDi3wIhbT+JP4xDquAX9ay13R3CH72NBzQ91KWe0+C168QAyQ==
 
 js-tokens@^4.0.0:
   version "4.0.0"
